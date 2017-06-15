@@ -9,8 +9,7 @@ import org.opencv.imgcodecs.Imgcodecs;
 
 
 public class ocv {
-
-
+    
     public ocv ()
     {
 
